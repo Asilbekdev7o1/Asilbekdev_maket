@@ -1,0 +1,120 @@
+@import url(../fonts.css);
+
+.panel-info__box {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 120px;
+
+}
+
+.panel-box__minititle {
+    color: rgb(0, 119, 182);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 130%;
+    text-align: center;
+}
+
+.panel-box__title {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+}
+
+.panel-box__text {
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    max-width: 720px;
+    width: 100%;
+    margin-bottom: 64px;
+}
+
+.panel-info__photos {
+    background: url(../../image/custom-1.jpeg) no-repeat center /cover;
+    max-width: 255px;
+    width: 100%;
+    padding-top: 248px;
+    padding-bottom: 32px;
+    border-radius: 10px;
+}
+
+.panel-photos__title {
+    color: rgb(255, 255, 255);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 130%;
+    text-align: center;
+}
+
+.panel-photos__minititle {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+}
+.panel-info__project{
+    margin-bottom: 120px;
+}
+.panel-info__one {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.panel-info__two {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.panel-info__ikki {
+    background: url(../../image/custom-2.jpeg) no-repeat center /cover;
+    max-width: 255px;
+    width: 100%;
+    padding-top: 248px;
+    padding-bottom: 32px;
+    border-radius: 10px;
+}
+
+.panel-info__uch {
+    background: url(../../image/custom-3.jpeg) no-repeat center /cover;
+    max-width: 255px;
+    width: 100%;
+    padding-top: 248px;
+    padding-bottom: 32px;
+    border-radius: 10px;
+}
+
+.panel-info__tor {
+    background: url(../../image/custom-4.jpeg) no-repeat center /cover;
+    max-width: 255px;
+    width: 100%;
+    padding-top: 248px;
+    padding-bottom: 32px;
+    border-radius: 10px;
+}
+
+.panel-info__besh {
+    background: url(../../image/images-1.jpeg) no-repeat center /cover;
+    max-width: 255px;
+    width: 100%;
+    padding-top: 248px;
+    padding-bottom: 32px;
+    border-radius: 10px;
+}
+.panel-info__olti{
+    background: url(../../image/images-2.jpeg) no-repeat center /cover;
+    max-width: 255px;
+    width: 100%;
+    padding-top: 248px;
+    padding-bottom: 32px;
+    border-radius: 10px;
+}

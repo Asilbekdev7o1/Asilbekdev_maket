@@ -1,0 +1,73 @@
+@import url(../fonts.css);
+
+
+.uroki {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: url(../../image/photo_2024-06-02_21-07-40.jpg) no-repeat center /cover;
+}
+
+.uroki-box__title {
+    color: rgb(255, 255, 255);
+    font-family: 'RR';
+    font-size: 48px;
+    line-height: 52px;
+    text-align: center;
+}
+
+.uroki-box__text {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 40px;
+}
+
+.uroki-info__btns {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 24px;
+}
+
+.uroki-info__label {
+    display: flex;
+    justify-content: center;
+}
+
+.uroki-info__email {
+    box-sizing: border-box;
+    border: 2px solid rgb(229, 229, 229);
+    border-radius: 6px;
+    background: rgb(248, 248, 248);
+    text-align: center;
+    margin-right: 10px;
+    align-items: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.uroki-info__btn {
+    color: rgb(255, 255, 255);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 6px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    transition: all 500ms;
+    background: rgb(82, 123, 131);
+}
+
+.uroki-info__btn:hover {
+    background: rgb(0, 180, 216);
+    border-radius: 20px;
+}

@@ -1,0 +1,81 @@
+@import url(../fonts.css);
+
+
+.project-info__box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    gap: 24px;
+}
+
+
+.project-box__title {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+}
+
+.project-box__taxt {
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.project-info__custom {
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    max-width: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.project-box__custom {
+    display: flex;
+    gap: 30px;
+}
+
+.project-custom__photo {
+    width: 64px;
+}
+
+.project-custom__text {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    max-width: 286px;
+    width: 100%;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.project-custom__minititle {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.project-custom__rasm {
+    color: rgba(0, 0, 0, 0.4);
+    font-family: 'RR';
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,100 @@
+@import url(../fonts.css);
+
+.video-info__project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.video-project__title {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 48px;
+    line-height: 52px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.video-project__text {
+    color: rgba(0, 0, 0, 0.4);
+    font-family: 'RR';
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    max-width: 720px;
+    width: 100%;
+    display: flex;
+    margin-top: 16px;
+    margin-bottom: 64px;
+}
+
+.video-info__photos {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 68px;
+}
+
+.video-photos__left {
+    background: url(../../image/video-1.jpeg) no-repeat center /cover;
+    max-width: 350px;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 143px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+}
+
+.video-left__icon {
+    color: rgb(0, 119, 182);
+    padding-top: 23px;
+    padding-bottom: 23px;
+    padding-left: 25px;
+    padding-right: 23px;
+    box-shadow: 0px 8px 40px 0px rgba(0, 0, 0, 0.1);
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+}
+
+.video-left__title {
+    color: rgb(255, 255, 255);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: start;
+    margin-bottom: 4px;
+    margin-top: 75px;
+}
+
+.video-left__minititle {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: 'RR';
+    font-size: 13px;
+    line-height: 16px;
+    text-align: start;
+}
+
+.video-photos__center {
+    background: url(../../image/video-2.jpeg) no-repeat center /cover;
+    max-width: 350px;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 143px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+}
+
+.video-photos__right {
+    background: url(../../image/video-3.jpeg) no-repeat center /cover;
+    max-width: 350px;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 143px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+}

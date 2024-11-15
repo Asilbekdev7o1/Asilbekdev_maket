@@ -1,0 +1,38 @@
+@import url(../fonts.css);
+
+.custom {
+    background: url(../../image/custom.jpeg) no-repeat center /cover;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.custom-info__title {
+    color: rgb(255, 255, 255);
+    font-family: 'RR';
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+}
+
+.custom-info__text {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'RR';
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    max-width: 720px;
+    width: 100%;
+    margin-bottom: 64px;
+}
+
+.custom-info__photos{
+    display: flex;
+    gap: 30px;
+}
+

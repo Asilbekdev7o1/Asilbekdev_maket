@@ -1,0 +1,29 @@
+@import url(../fonts.css);
+
+.images-info {
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+
+.images-info__container {
+    display: flex;
+
+}
+
+.images-info__photo {
+    margin-left: 30px;
+}
+
+.images-info__one {
+    border-radius: 10px;
+}
+
+.images-info__two {
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.images-info__three {
+    border-radius: 20px;
+}

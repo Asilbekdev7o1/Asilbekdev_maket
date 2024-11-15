@@ -1,0 +1,195 @@
+@import url(../fonts.css);
+
+
+.prosent {
+    padding-top: 124px;
+}
+
+.prosent-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+
+}
+
+.prosent-top__minititle {
+    color: rgb(0, 119, 182);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 130%;
+}
+
+.prosent-top__title {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 64px;
+    line-height: 68px;
+}
+
+.prosent-top__text {
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 24px;
+    line-height: 130%;
+    max-width: 730px;
+    width: 100%;
+
+}
+
+.prosent-center {
+    padding-top: 64px;
+    padding-bottom: 120px;
+    
+}
+
+/* **** 1 **** */
+.prosent-center__top {
+    display: flex;
+    column-gap: 13px;
+}
+
+.prosent-center-bottom {
+    display: flex;
+    padding-top: 76px;
+    column-gap: 13px;
+}
+
+.prosent-center__one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+
+}
+
+.prosent-one__icon {
+    background: rgb(0, 119, 182);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 40px;
+}
+
+.prosent-one__minititle {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 130%;
+}
+
+.prosent-one__text {
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 360px;
+    width: 100%;
+}
+
+/* **** 2 **** */
+
+.prosent-center__two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+
+}
+
+.prosent-two__minititle {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 130%;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+}
+
+.prosent-two__text {
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+}
+
+/* **** 3 **** */
+.prosent-center__three {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+
+}
+
+.prosent-three__minititle {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 130%;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+}
+
+.prosent-three__text {
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+}
+
+/* **** 4 **** */
+
+.prosent-four__minititle {
+    color: rgb(0, 0, 0);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 130%;
+}
+
+/* **** 5 **** */
+
+.prosent-besh__text{
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+}
+
+/* **** 6 **** */
+
+.prosent-olti__text{
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+}
+
+/* **** 7 **** */
+
+.prosent-yetti__text{
+    
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 340px;
+    width: 100%;
+    text-align: center;
+}
+

@@ -1,0 +1,43 @@
+@import url(../fonts.css);
+
+.kontakt-box__left {
+    background: rgb(0, 119, 182);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.kontakt-left__title {
+    color: rgb(255, 255, 255);
+    font-family: 'RR';
+    font-size: 28px;
+    line-height: 32px;
+    text-align: left;
+}
+
+.kontakt-left__nomer {
+    color: aliceblue;
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.kontakt-left__two {
+    color: aliceblue;
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.kontakt-left__text {
+    color: aliceblue;
+    font-family: 'RR';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+}
